@@ -1,10 +1,14 @@
 {
   "name": "@ungap/compression-stream",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "main": "index.js",
   "module": "index.js",
   "type": "module",
-  "keywords": ["Bun", "CompressionStream", "DecompressionStream"],
+  "keywords": [
+    "Bun",
+    "CompressionStream",
+    "DecompressionStream"
+  ],
   "author": "Andrea Giammarchi",
   "license": "MIT",
   "description": "A De/CompressionStream for Bun",
